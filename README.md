@@ -1,3 +1,3 @@
 # Weather App
+[🛰️live site URL-] (https://simple-weather-app-reactjs.netlify.app/)
 
-[Live url](https://simple-weather-app-reactjs.netlify.app/).
