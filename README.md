@@ -1,6 +1,6 @@
 # Weather App
 
-- With the help of API calls, users may access live weather for a chosen location. The app also features a background that changes as the weather changes.
+- With the help of API calls, users may access live weather for a chosen location. The app also features of dynamically background changes as the temperature changes.
 
 ## Link
 
