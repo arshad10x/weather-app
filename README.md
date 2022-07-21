@@ -7,3 +7,5 @@
 - Live Site URL: https://weather-app-seven-liart.vercel.app/
 
 ## Video Captured
+
+
